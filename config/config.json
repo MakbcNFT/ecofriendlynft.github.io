@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x629541a941CF8e2332CA1E513d382140611A28ab",
+  "SCAN_LINK": "https://polygonscan.com/address/0x629541a941cf8e2332ca1e513d382140611a28ab",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lostra NFT Sneakers",
+  "SYMBOL": "LNFTS",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lostra-nft-sneakers",
+  "SHOW_BACKGROUND": true
+}
